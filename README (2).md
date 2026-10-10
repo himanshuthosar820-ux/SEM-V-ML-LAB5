@@ -13,8 +13,8 @@
 
 | Details | Information                                |
 |---|--------------------------------------------|
-| **Name** | Sarvesh Hardas                             |
-| **Roll No.** | 04                                         |
+| **Name** |Himanshu Anil Thosar                           |
+| **Roll No.** | 13                                        |
 | **Section** | B                                          |
 | **Batch** | B1                                         |
 | **Branch** | Artificial Intelligence & Machine Learning |
